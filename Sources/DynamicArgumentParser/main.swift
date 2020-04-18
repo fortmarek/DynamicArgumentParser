@@ -1,1 +1,2 @@
-print("Hello, world!")
+try? Scaffold.preprocess(CommandLine.arguments)
+Scaffold.main()
